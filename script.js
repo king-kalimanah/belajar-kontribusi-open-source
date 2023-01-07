@@ -1,3 +1,4 @@
+// ! Jangan ubah kode di bawah ini, ok :)
 const contributorsUrl =
   "https://api.github.com/repos/cuingskot76/belajar-kontiribusi-open-source/contributors";
 const ownerUrl = "https://api.github.com/users/cuingskot76";
